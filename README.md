@@ -3,7 +3,7 @@
 <p align="center"> ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴
 
  <p align="center">
-
+<p align="center">
 <a href="#"><img title="ALL-IN-ONE" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
 
 </p>
