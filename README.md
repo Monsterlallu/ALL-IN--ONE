@@ -4,7 +4,7 @@
 
  <p align="center">
 <p align="center">
-<a href="#"><img title="ALL-IN-ONE" src="https://img.shields.io/badge/-Monster lallu-red?&style=for-the-badge"></a>
+<a href="#"><img title="Monsterlallu" src="https://img.shields.io/badge/-Monster lallu-red?&style=for-the-badge"></a>
 
 </p>
 
